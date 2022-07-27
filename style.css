@@ -1,0 +1,72 @@
+.hbgc {    background-color: #1f2937;    }
+
+.sbgc {    background-color: white;    }
+
+.h1 {    font-size: 48px;    font-weight: 900;    color: #F9FAF8;    }
+
+.hstxt {    font-size: 18px;    color: #E5E7EB;    }
+
+.hltxt {    font-size: 24px;    color: #F9FAF8;    }
+
+.ihstxt {    font-size: 36px;    color: #1F2937;    }
+
+.ctabg {    background-color: #3882F6;    }
+
+.qsbg {    background-color: #E5E7EB;     }
+
+.qt {    font-size: 36px;   font-style: italic;    color: #1f2937;    font-weight: 200;}
+
+.ctabg {    background-color: #3882F6;    }
+
+.wrapper {
+    max-width: 1170px;
+    margin-left: auto;
+    margin-right: auto;
+    padding-left: 16px;
+    padding-right: 16px;
+    font-family: ;
+}
+
+.dimen1 {    width: 180px;    height: 200px;   }
+
+.border {
+    border: 2px solid #73AD21;
+    border-radius: 8px;
+     
+}
+
+
+.topimg {    width: 500px; height: 200px;    }
+
+.df {    display: flex;    }
+
+.card {
+    margin: 0;
+    width: 180px;
+    height: 200px;
+    /* padding: 0 15px 15px 15px; */
+    border-radius: 8px;
+    box-shadow: 6px 6px 30px 0px rgb(128, 128, 128);
+}
+
+.mg0 {    margin: 0;    }
+
+.mt40 {    margin-top: 40px;    }
+
+.mt50 {    margin-top: 50px;    }
+
+.mb40 {    margin-bottom: 40px;    }
+
+.mb50 {    margin-bottom: 50px;    }
+
+.mt100 {    margin-top: 100px;    }
+
+.pt40 {    padding-top: 40px;    }
+
+.pt50 {    padding-top: 50px;    }
+
+.pb40 {    padding-bottom: 40px;    }
+
+.pb50 {    padding-bottom: 50px;    }
+
+.pt100 {    padding-top: 100px;    }
